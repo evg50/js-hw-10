@@ -1,5 +1,5 @@
 import axios from 'axios';
-
+// api
 const catInfo = document.querySelector('.cat-info');
 const loader = document.getElementById('loader');
 const error = document.getElementById('error');
